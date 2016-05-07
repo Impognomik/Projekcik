@@ -1,0 +1,5 @@
+to jest proba.
+"JAk zadziala to zadziala
+a jak nie zadziala to nie zadziala"
+
+	~~Karina
