@@ -1,0 +1,70 @@
+﻿<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>PRZEPISY DLA KAŻDEGO</title>
+	<meta name="description" content="Dodawaj, podglądaj, komentuj przepisy na naszej stronie" />
+	
+	<style>
+	<body background="C:\Users\Rafael\Desktop\1.gif">...</body>
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	#nav
+	{
+		float: left;
+		background-color: blue;
+		width: 60px;
+		min-height: 620px;
+		padding: 100px;
+	}
+	#logo
+	{
+		background-color: green;
+		color: white;
+		text-align: center;
+		padding: 15px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+	#footer
+	{
+		clear: both;
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="nav">
+			Przystawki<br />
+			Dania główne<br />
+			Zupy<br />
+			Desrey<br />
+		</div>
+		
+		<div id="content">
+			<h2>Wszystko w jednym miejscu</h2>
+			Każdy może dodawać własne sprawdzone przepisy, oceniać dania innych osób którzy dodali własne dania. strona w rozbudowie (TUTAJ DODAĆ JAKIŚ DODATKOWY OPIS)
+					</div>
+			<a href="https://www.youtube.com/watch?v=rYR7UXTt2lM">Przepis dnia</a>
+	
+	</div>
+
+</body>
+</html>
