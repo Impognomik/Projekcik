@@ -8,7 +8,7 @@
             <table align="left" width="200">
     
                 <p>Nazwa potrawy:<br />
-                    <input type="text" name="Nazwa_przepisu" value=""</>
+                    <input type="text" name="Nazwa_potrawy" value=""</>
                 </p>
             
                 <p>Czas przygotowania:<br />
